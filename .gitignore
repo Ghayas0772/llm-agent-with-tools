@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Local memory / personal data
+memory.json
+profile.json
+
+# IDE files
+.vscode/
+.idea/
